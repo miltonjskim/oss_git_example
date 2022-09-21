@@ -1,39 +1,78 @@
-# **오픈소스SW개발론**
+# Week1-1 강의 개요 (강의계획서)
 
-### Introduction
+### 수업목표
+* Basic functional programming, _Haskell_
+* Basicc concept and tools for **open-source software development**
+* Attitude to self-learn **new SW tools and environment**
+ 
+### 수업평가 방법
+* 중간고사 30
+* 기말고사 40
+* 개별과제 20
+* 수업참여도 5
+* 출석 5
+---
 
--------------
-### Week1-1 강의 개요 (강의계획서)
-* 이런내용
-* 저런내용
 
--------------
-### Week1-2 오픈소스소프트웨어 개요
-* 이런내용
-* 저런내용
+# Week1-2 오픈소스소프트웨어 개요
 
--------------
-### Week2-1 버전 관리 개요
-* 이런내용
-* 저런내용
+### Free Software VS Open Source Software
+* ![Ricahrd Stallman](./oss_git_example/Richard_Stallman.jpg)  
+Richard Stallman
+* ![Eric S. Raymond](./oss_git_example/Eric_S_Raymond.jpg)  
+Eric S. Raymond
+---
 
--------------
-### Week2-2 Git
-* 이런내용
-* 저런내용
 
-![Image] (그림.png)
+# Week2-1 버전 관리 개요
 
--------------
-### Week2-3 Github, fork, pull request
-* 이런내용
-  > 그런데 이런거
-* 저런내용
-  > 그런데 저런거
+* Centralized VCS
+    * One central repository with many users
+    * E.g., _SVN_
+* Decentralized(Distributed) VCS
+    * Every user owns his or her local repository
+    * A separate remote (central) repository
+        * Sometimes, more than one remote (central) repositories
+    * Two new actions (with remote repositories):  
+    fork pull request
+---
 
-[My Github Blog](https://github.com/kkanuseobin)
 
--------------
-### Week3     Markdown
-* 이런내용
-* 저런내용
+# Week2-2 Git
+
+### Git이란 
+> Git 개발과정 , 소스파일 등을 관리하는 도구
+>
+>Histroy 관리가 되어 개발되어온 과정 , 역사를 볼 수 있고 , 특정시점으로 복구가능
+
+### Git Workflow
+![Git workflow](https://techblog.woowahan.com/wp-content/uploads/img/2017-10-30/git-flow_overall_graph.png)
+
+[image reference](https://techblog.woowahan.com/2553/)
+---
+
+
+# Week2-3 [Github], fork, pull request
+
+### Github Training
+><pre>  Don't think about git, 
+>
+>                            just do git </pre>
+
+**[똑같이 따라 해보자](https://github.com/Taeung/git-training)**
+
+# Week3     Markdown
+
+### Topics
+* Heading
+* Italic, bold, etc.  
+* Lists with bullets and numbers
+* Links and images
+
+### Editors
+* [VS Code](https://code.visualstudio.com/docs/languages/markdown)
+    *  Edit and preview (Ctrl-Shift-V)  
+    ![ctrl-Shift-V](./oss_git_example/VS_MD_preview.png)
+* [StackEdit](https://stackedit.io)
+
+[Github]: http://github.com
