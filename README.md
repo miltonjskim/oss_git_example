@@ -17,10 +17,11 @@
 # Week1-2 오픈소스소프트웨어 개요
 
 ### Free Software VS Open Source Software
-* ![Ricahrd Stallman](./Richard_Stallman.jpg)  
-Richard Stallman
-* ![Eric S. Raymond](./Eric_S_Raymond.jpg)  
-Eric S. Raymond
+* Richard Stallman  
+  ![Ricahrd Stallman](./Richard_Stallman.jpg)  
+
+* Eric S. Raymond  
+  ![Eric S. Raymond](./Eric_S_Raymond.jpg)  
 ---
 
 
