@@ -17,9 +17,9 @@
 # Week1-2 오픈소스소프트웨어 개요
 
 ### Free Software VS Open Source Software
-* ![Ricahrd Stallman](./oss_git_example/Richard_Stallman.jpg)  
+* ![Ricahrd Stallman](./Richard_Stallman.jpg)  
 Richard Stallman
-* ![Eric S. Raymond](./oss_git_example/Eric_S_Raymond.jpg)  
+* ![Eric S. Raymond](./Eric_S_Raymond.jpg)  
 Eric S. Raymond
 ---
 
@@ -60,6 +60,8 @@ Eric S. Raymond
 >                            just do git </pre>
 
 **[똑같이 따라 해보자](https://github.com/Taeung/git-training)**
+---
+
 
 # Week3     Markdown
 
@@ -72,7 +74,7 @@ Eric S. Raymond
 ### Editors
 * [VS Code](https://code.visualstudio.com/docs/languages/markdown)
     *  Edit and preview (Ctrl-Shift-V)  
-    ![ctrl-Shift-V](./oss_git_example/VS_MD_preview.png)
+    ![ctrl-Shift-V](./VS_MD_preview.png)
 * [StackEdit](https://stackedit.io)
 
 [Github]: http://github.com
